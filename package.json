@@ -9,7 +9,7 @@
     "build": "npm run browserify ",
     "start": "npm run watch & nodemon server.js"
   },
-  "author": "Ken Wheeler",
+  "author": "KW",
   "license": "MIT",
   "dependencies": {
     "express": "~4.9.7",
